@@ -3,7 +3,7 @@ body {
     overflow-x: hidden;
     height: 100%;
     /* background-color: #D32F2F; */
-    background-image: url("factory.jpg");
+    background-image: url("logo.png");
     
     background-repeat: no-repeat
 }
@@ -60,7 +60,7 @@ button:focus {
     width: 50%;
     height: 700px;
     /* background-color: #8693d8; */
-    background-image: url("factory2a.jpg");
+    background-image: url("logo.png");
     background-repeat: no-repeat;
     background-size: cover;
 
